@@ -1,0 +1,6 @@
+Usage example:
+
+jQuery(document).ready(function (){
+	$(".select_filter").sel_filter({slide_width: 150, min_options: 1, crop: false});
+
+});
